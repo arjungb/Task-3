@@ -1,2 +1,11 @@
 # Task-3
-TASK 3: ENHANCE THE  WEBPAGE USING JAVASCRIPT.
+Description:
+Enhance webpage interactivity by adding
+JavaScript functionality such as form
+validation, interactive menus, and dynamic
+content updates.
+Responsibility:
+Write clean and efficient JavaScript code,
+handling user input securely to prevent
+vulnerabilities like cross-site scripting
+(XSS) attacks.
